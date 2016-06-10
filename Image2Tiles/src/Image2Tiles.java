@@ -65,8 +65,8 @@ public class Image2Tiles {
     static final String pathToStoreUpdatedTime = "C:/Users/bregmi1/Lab";
     static final String pathToStoreImages = "C:/Users/bregmi1/Lab/Project1";
     static final String downloadFromDate = "2016/05/12";
-    static final String planetLabUsername = "bregmi1@uno.edu";
-    static final String planetLabPassword = "planetlab";
+    static final String planetLabUsername = "username";
+    static final String planetLabPassword = "password";
     
     static final String[] sceneType = {"rapideye", "landsat", "ortho"};
     static LocalDateTime lastUpdatedTime;
